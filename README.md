@@ -38,3 +38,8 @@ quanty/
 examples/        Demonstration scripts for small Y
 benchmarks/      Scaling and TT frequency experiments
 docs/            Theory–code correspondence
+
+**DOI**
+https://doi.org/10.5281/zenodo.18265232
+
+
