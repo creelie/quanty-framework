@@ -3,6 +3,28 @@ title: "QuanTY Framework: Reference Implementations for Y-Bit Quantum Systems"
 message: "If you use this software, please cite the accompanying paper."
 type: software
 
+abstract: >
+  The QuanTY (Quantum Topologically-Transient) Framework is a computational and
+  theoretical research framework for the study of multi-qubit ($Y$-bit) quantum
+  systems using symplectic geometry, Floer-theoretic constructions, and
+  algorithmically controlled topological transitions. Its central contribution
+  is the introduction of Topologically Transient (TT) structures, which act as
+  controlled equivalence operations on Quantum Inner State Manifolds and enable
+  adaptive evolution while preserving invariant data and algorithmic
+  correctness. This software repository provides reference implementations
+  corresponding to the algorithms, constructions, and appendices of the
+  accompanying manuscript, and is intended to support reproducibility,
+  verification, and exploratory experimentation rather than production-level
+  simulation.
+
+keywords:
+  - quantum computation
+  - symplectic geometry
+  - Floer theory
+  - topological transitions
+  - quantum algorithms
+
+
 authors:
   - family-names: Bhattacharjee
     given-names: Deep
@@ -13,3 +35,7 @@ url: https://github.com/creelie/quanty-framework
 date-released: 2026-01-01
 
 license: BSD-3-Clause
+
+doi: 10.5281/zenodo.1234567
+
+
