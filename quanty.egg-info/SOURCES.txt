@@ -8,7 +8,10 @@ quanty.egg-info/dependency_links.txt
 quanty.egg-info/top_level.txt
 quanty/algorithms/__init__.py
 quanty/core/__init__.py
+quanty/core/hamiltonian.py
 quanty/core/manifold.py
+quanty/core/observables.py
+quanty/core/symplectic.py
 quanty/topology/__init__.py
 quanty/topology/floer.py
 quanty/tt/__init__.py
